@@ -4,4 +4,4 @@ COPY . .
 RUN mkdir artifacts
 VOLUME "artifacts"
 
-ENTRYPOINT [ "node"]
+ENTRYPOINT [ "node", "--unhandled-rejections=strict"]
