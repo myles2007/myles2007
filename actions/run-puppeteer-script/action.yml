@@ -1,0 +1,11 @@
+name: "Run Puppeteer Script"
+description: "Runs your Puppeteer script :)"
+inputs:
+  script:
+    description: "The script you wish to execute."
+    required: true
+runs:
+  using: "docker"
+  image: "Dockerfile"
+  args:
+    - ${{ inputs.script }}
