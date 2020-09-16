@@ -8,6 +8,8 @@ jobs:
     name: Screenshot Strava Goals
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Action
+        uses: actions/checkout@v2
       - name: Take Goals Screenshots
         uses: ./actions/run-puppeteer-script
         with:
