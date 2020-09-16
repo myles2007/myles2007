@@ -17,3 +17,8 @@ jobs:
         env:
           STRAVA_EMAIL: ${{ secrets.STRAVA_EMAIL }}
           STRAVA_PASSWORD: ${{ secrets.STRAVA_PASSWORD }}
+      - name: Upload As Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: strava-screenshots
+          path: ./strava/*.png
