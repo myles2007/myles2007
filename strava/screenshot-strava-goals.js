@@ -17,17 +17,21 @@ const puppeteer = require("puppeteer");
   await page.type("#email", process.env.STRAVA_EMAIL);
   await page.type("#password", process.env.STRAVA_PASSWORD);
   await page.click("#login-button");
+  console.log("Logging in to Strava...");
 
   await page.waitForSelector("#progress-goals");
   const goalTabs = [
-    "#relative-effort-goals-tab",
     "#ride-goals-tab",
     "#run-goals-tab",
+    "#relative-effort-goals-tab", // For some reason this select is never visible if it's first... 🤔
   ];
 
   for (const goalTab of goalTabs) {
     console.log(`Taking screenshot of ${goalTab}...`);
     await page.click(goalTab);
+    await page.waitForSelector(`${goalTab.replace("-tab", "")}`, {
+      visible: true,
+    });
     const progressGoal = await page.$("#progress-goals > div.card");
     await progressGoal.screenshot({
       path: `./strava/strava-${goalTab}.png`,
