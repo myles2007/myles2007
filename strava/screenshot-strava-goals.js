@@ -30,7 +30,7 @@ const puppeteer = require("puppeteer");
     await page.click(goalTab);
     const progressGoal = await page.$("#progress-goals > div.card");
     await progressGoal.screenshot({
-      path: `screenshots/strava-${goalTab}.png`,
+      path: `artifacts/strava-${goalTab}.png`,
     });
   }
 
