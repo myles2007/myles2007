@@ -1,0 +1,17 @@
+name: Screenshot Strava Goals
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  screenshot-strava-goals:
+    name: Screenshot Strava Goals
+    runs-on: ubuntu-latest
+    steps:
+      - name: Take Goals Screenshots
+        uses: ./actions/run-puppeteer-script
+        with:
+          script: ./strava/screenshot-strava-goals.js
+        env:
+          STRAVA_EMAIL: ${{ secrets.STRAVA_EMAIL }}
+          STRAVA_PASSWORD: ${{ secrets.STRAVA_PASSWORD }}
