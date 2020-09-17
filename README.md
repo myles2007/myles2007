@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### Strava Goals
-![Strava Cycling Goals](./strava/strava-ride-goals-tab.png)
-![Strava Running Goals](./strava/strava-run-goals-tab.png)
-![Strava Relative Effort Goals](./strava/strava-relative-effort-goals-tab.png)
+![Strava Cycling Goals](https://raw.githubusercontent.com/myles2007/myles2007/strava/strava-ride-goals-tab.png)
+![Strava Running Goals](https://raw.githubusercontent.com/myles2007/myles2007/strava/strava-run-goals-tab.png)
+![Strava Relative Effort Goals](https://raw.githubusercontent.com/myles2007/myles2007/strava/strava-relative-effort-goals-tab.png)
 
 
 <!--
