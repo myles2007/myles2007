@@ -3,7 +3,6 @@ on:
   issues:
     types: [opened, reopened]
   schedule:
-    - cron: "0 1 * * *"
     - cron: "*/5 * * * *"
 
 jobs:
