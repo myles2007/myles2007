@@ -12,7 +12,7 @@ const puppeteer = require("puppeteer");
     ],
   });
   const page = await browser.newPage();
-  await page.setViewport({ width: 1920, height: 1080 });
+  await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 2 });
   await page.goto("https://strava.com/login");
   await page.type("#email", process.env.STRAVA_EMAIL);
   await page.type("#password", process.env.STRAVA_PASSWORD);
