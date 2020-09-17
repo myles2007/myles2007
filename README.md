@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 ### Strava Goals
-![Strava Cycling Goals](https://raw.githubusercontent.com/myles2007/myles2007/master/strava/strava-ride-goals-tab.png)
-![Strava Running Goals](https://raw.githubusercontent.com/myles2007/myles2007/master/strava/strava-run-goals-tab.png)
-![Strava Relative Effort Goals](https://raw.githubusercontent.com/myles2007/myles2007/master/strava/strava-relative-effort-goals-tab.png)
-
+<img width=25% src="https://raw.githubusercontent.com/myles2007/myles2007/master/strava/strava-ride-goals-tab.png" alt="Strava Ride Goals">
+<img width=25% src="https://raw.githubusercontent.com/myles2007/myles2007/master/strava/strava-run-goals-tab.png" alt="Strava Run Goals">
+<img width=25% src="https://raw.githubusercontent.com/myles2007/myles2007/master/strava/strava-relative-effort-goals-tab.png" alt="Strava Relative Effort Goals">
 
 <!--
 **myles2007/myles2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
