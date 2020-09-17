@@ -2,7 +2,7 @@
 
 ### Strava Goals
 ![Strava Cycling Goals](./strava/strava-ride-goals-tab.png)
-![Strava Running Goals](./strava/strava-ride-goals-tab.png)
+![Strava Running Goals](./strava/strava-run-goals-tab.png)
 ![Strava Relative Effort Goals](./strava/strava-relative-effort-goals-tab.png)
 
 
