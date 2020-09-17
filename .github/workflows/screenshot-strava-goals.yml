@@ -3,11 +3,11 @@ on:
   issues:
     types: [opened, reopened]
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   screenshot-strava-goals:
-    #if: github.event.issue.title == 'Update Strava Goals' || github.event_name == 'schedule'
+    if: github.event.issue.title == 'Update Strava Goals' || github.event_name == 'schedule'
     name: Screenshot Strava Goals
     runs-on: ubuntu-latest
     steps:
