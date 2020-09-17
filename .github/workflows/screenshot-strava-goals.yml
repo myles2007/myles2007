@@ -22,3 +22,7 @@ jobs:
         with:
           name: strava-screenshots
           path: ./strava/*.png
+      - name: Commit Updated Screenshots
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "(Automated) Updating Strava Goals Snapshot"
