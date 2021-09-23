@@ -5,12 +5,10 @@
 <p>
 <h5> My name is Myles Loffler </h5>
 
-I'm an experienced Software Engineer, Architect, and Manager with 11+ years
-of professional experience architecting, building, and maintaining cloud-based, enterprise,
-SaaS solutions for the Fintech industry.
+I'm a Senior Engineer, Architect, and Manager with 11+ years of professional experience architecting, building, and
+maintaining cloud-based enterprise SaaS solutions on the AWS Cloud with Python, JavaScript, MySQL, and more.
 
-I'm expert at solving complex problems, managing requirements, leading teams and in Python,
-JavaScript, MySQL, and the AWS Cloud.
+I'm an expert at solving complex problems, managing requirements, and leading geo-diverse teams.
 
 <p align=center> </p>
 
@@ -23,29 +21,28 @@ JavaScript, MySQL, and the AWS Cloud.
 </h5>
 <small>
   <ul>
-    <li> Led BriteCore engineering–more than 100 engineers–for over 1 year. </li>
-    <li> Leading BriteCore's Governance division, including Architecture and QA.
-    <li> Define company-wide processes, plans, and strategies where they relate
-         to how BriteCore builds quality software. </li>
-    <li> Directly responsible for a multi-million dollar contract engagement. </li>
-    <li> Closely engaged with InfoSec on initiatives such as SOC 2 compliance. </li>
+    <li>Led BriteCore Engineering–more than 100 engineers–for over 1 year</li>
+    <li>Leading BriteCore’s Governance division, including Architecture and QA</li>
+    <li>Directly guide/build targeted solutions for high-impact initiatives</li>
+    <li>Define company-wide processes, plans, and strategies where they relate to how BriteCore builds quality software</li>
+    <li>Directly responsible for a multi-million dollar contract engagement</li>
+    <li>Closely engaged with InfoSec on initiatives such as SOC 2 compliance</li>
   </ul>
 </small>
 
 <h6></h6>
-<h5>Principal Engineer & Architect(<a href="https://www.britecore.com">BriteCore</a>)
+<h5>Principal Engineer & Architect (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
   <small>November 2017 - September 2018 </small>
 </h5>
 <small>
   <ul>
-    <li> Worked with a small team of BriteCore's top developers to rearchitect major
-components of BriteCore from the ground up.</li>
+    <li> Worked with a small team of BriteCore’s top developers to rearchitect major components of BriteCore from the ground up and away from the monolith</li>
     <li> Built and trained teams of developers to expand overall bandwidth. </li>
     <li> Directly led development on a new authentication and authorization system. </li>
   </ul>
 </small>
-<h5>Drector of Architecture & Engineering(<a href="https://www.britecore.com">BriteCore</a>)
+<h5>Director of Architecture & Engineering (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
   <small>January 2017 - November 2017</small>
 </h5>
