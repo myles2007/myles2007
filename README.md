@@ -38,8 +38,8 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 <small>
   <ul>
     <li> Worked with a small team of BriteCore’s top developers to rearchitect major components of BriteCore from the ground up and away from the monolith</li>
-    <li> Built and trained teams of developers to expand overall bandwidth. </li>
-    <li> Directly led development on a new authentication and authorization system. </li>
+    <li> Built and trained teams of developers to expand overall bandwidth</li>
+    <li> Directly led development on a new authentication and authorization system</li>
   </ul>
 </small>
 <h5>Director of Architecture & Engineering (<a href="https://www.britecore.com">BriteCore</a>)
@@ -48,10 +48,10 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 </h5>
 <small>
   <ul>
-    <li> Oversaw/guided significant development projects, architectural changes, and engineering processes. </li>
-    <li> Served as the primary technical contact for prospective clients, vendor partners, and key clients. </li>
-    <li> Guided BriteCore's first API-only client to production. </li>
-    <li> Traveled as needed for conferences, sales trips, and any other events requiring a technical presence. </li>
+    <li> Oversaw/guided significant development projects, architectural changes, and engineering processes</li>
+    <li> Served as the primary technical contact for prospective clients, vendor partners, and key clients</li>
+    <li> Guided BriteCore's first API-only client to production</li>
+    <li> Traveled as needed for conferences, sales trips, and any other events requiring a technical presence</li>
   </ul>
 </small>
 
