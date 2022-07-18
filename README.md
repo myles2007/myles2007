@@ -15,9 +15,17 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 <h3 align=center> Experience </h3>
 
 <h6></h6>
+<h5>Co-Founder @ Hedgefish (<a href="https://hedgefish.com">Hedgefish</a>)
+  <br/>
+  <small>February 2022 - Current </small>
+</h5>
+<small>
+</small>
+
+<h6></h6>
 <h5>VP of Product Architecture (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
-  <small>September 2018 - Current </small>
+  <small>September 2018 - February 2022 </small>
 </h5>
 <small>
   <ul>
