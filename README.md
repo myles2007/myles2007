@@ -65,6 +65,13 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 
 <small><h6> See more on <a href="www.linkedin.com/in/mylesloffler">LinkedIn</a>.</small>
 
+<h3 align=center> Communities and Certifications </h3>
+<p align=center">
+  <img width=20% src="assets/Community%20Builders%20badge%20800px.png" alt="AWS Community Builders Logo">
+  <img width=20% src="assets/developer-associate.png" alt="AWS Community Builders Logo">
+  <img width=20% src="assets/solutions-architect-associate.png" alt="AWS Community Builders Logo">
+</p>
+
 <h3 align=center> Hobbies</h3>
 If I'm not at my computer working on a personal project, you'll likely
 find me outdoors somewhere either taking photos, running, biking, hiking, or
