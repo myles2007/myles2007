@@ -5,7 +5,7 @@
 <p>
 <h5> My name is Myles Loffler </h5>
 
-I'm a Senior Engineer, Architect, and Manager with 11+ years of professional experience architecting, building, and
+I'm a Senior Engineer, Architect, and Manager with 12+ years of professional experience architecting, building, and
 maintaining cloud-based enterprise SaaS solutions on the AWS Cloud with Python, JavaScript, MySQL, and more.
 
 I'm an expert at solving complex problems, managing requirements, and leading geo-diverse teams.
