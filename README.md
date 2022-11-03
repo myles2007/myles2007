@@ -23,6 +23,7 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
   <ul>
     <li>Source, define, negotiate, and fulfill software engineering/DevOps contracts</li>
     <li>Provide expert consulting services for AWS, Python, and Insuretechs</li>
+    <li>Design and develop micro SaaS applications (TBA)</li>
   </ul>
 </small>
 
