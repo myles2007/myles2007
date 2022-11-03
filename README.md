@@ -97,6 +97,7 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
   <a href="https://www.credly.com/badges/456b8360-a71b-4866-b6d3-b208c7f03155">
     <img width=20% src="assets/cloud-practitioner-badge.png" alt="AWS Cloud Practitioner Badge">
   </a>
+  <h6 align=center> <small><small><i>Currently expired: AWS Solutions Architect - Associate (May 24, 2022)</i></small></small></h6>
 </p>
 
 <h3 align=center> Hobbies</h3>
