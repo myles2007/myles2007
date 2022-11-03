@@ -27,18 +27,33 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 </small>
 
 <h6></h6>
+<h5>BriteCore (All Roles) (<a href="https://www.britecore.com">BriteCore</a>)
+  <br/>
+  <small>March 2010 - February 2022 </small>
+</h5>
+<small>
+  <ul>
+    <li>Scaled BriteCore from $0 to $15M annual revenue ($10M ARR), 0 to 80+ customers (B2B), and 18 to 320+ team members (peak)</li>
+    <li>Built an AWS based (since 2012), enterprise SaaS application currently processing more than $1B in transactions annually</li>
+    <li>Presented live and on-stage to BriteCore’s growing customer base annually</li>
+    <li>Catalyzed and led a long-term, company-wide initiative to reimagine the limits of BriteCore by developing, proposing, and proving a powerful concept which led to raising $80M and opened previously unattainable business</li>
+  </ul>
+</small>
+
+<h6></h6>
 <h5>VP of Product Architecture (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
   <small>September 2018 - February 2022 </small>
 </h5>
 <small>
   <ul>
-    <li>Led BriteCore Engineering–more than 100 engineers–for over 1 year</li>
-    <li>Leading BriteCore’s Governance division, including Architecture and QA</li>
-    <li>Directly guide/build targeted solutions for high-impact initiatives</li>
-    <li>Define company-wide processes, plans, and strategies where they relate to how BriteCore builds quality software</li>
-    <li>Directly responsible for a multi-million dollar contract engagement</li>
-    <li>Closely engaged with InfoSec on initiatives such as SOC 2 compliance</li>
+    <li>Directly reported to CEO as an executive with board-level responsibilities</li>
+    <li>Scaled and led BriteCore’s global SCRUM engineering team from 30 to 120</li>
+    <li>Managed a multi-million dollar onshore/offshore contract concerning data architecture, analytics, BI, and overall system observability at BriteCore</li>
+    <li>Led BriteCore’s Governance division, including Architecture, QA, and Design</li>
+    <li>Partnered with Sales and Marketing to assess and assist with opportunities both behind-the-scenes and as direct-to-customer presentations</li>
+    <li>Defined company and engineering-specific plans, processes, and strategies</li>
+    <li>Closely engaged with InfoSec on compliance initiatives such as SOC 2</li>
   </ul>
 </small>
 
@@ -49,9 +64,8 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 </h5>
 <small>
   <ul>
-    <li> Worked with a small team of BriteCore’s top developers to rearchitect major components of BriteCore from the ground up and away from the monolith</li>
-    <li> Built and trained teams of developers to expand overall bandwidth</li>
-    <li> Directly led development on a new authentication and authorization system</li>
+    <li>Worked closely with BriteCore’s top developers to rearchitect major components of BriteCore from the ground up to unlock new business</li>
+    <li>Directly led development for BriteCore’s new AuthN and AuthZ system</li>
   </ul>
 </small>
 <h5>Director of Architecture & Engineering (<a href="https://www.britecore.com">BriteCore</a>)
@@ -60,10 +74,10 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 </h5>
 <small>
   <ul>
-    <li> Oversaw/guided significant development projects, architectural changes, and engineering processes</li>
-    <li> Served as the primary technical contact for prospective clients, vendor partners, and key clients</li>
-    <li> Guided BriteCore's first API-only client to production</li>
-    <li> Traveled as needed for conferences, sales trips, and any other events requiring a technical presence</li>
+    <li>Directed major initiatives, architectural changes, and engineering processes</li>
+    <li>Guided BriteCore’s first API-only client to production</li>
+    <li>Served as the primary technical contact for key relationships such as high-profile clients, prospective clients, and vendor partners</li>
+    <li>Traveled as needed for industry conferences, presentations, sales, and any other events requiring a technical presence</li>
   </ul>
 </small>
 
@@ -72,8 +86,8 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 <h3 align=center> Communities and Certifications </h3>
 <p align=center">
   <img width=20% src="assets/Community%20Builders%20badge%20800px.png" alt="AWS Community Builders Logo">
-  <img width=20% src="assets/developer-associate.png" alt="AWS Community Builders Logo">
-  <img width=20% src="assets/solutions-architect-associate.png" alt="AWS Community Builders Logo">
+  <img width=20% src="assets/developer-associate.png" alt="AWS Developer Associate Badge">
+  <img width=20% src="assets/solutions-architect-associate.png" alt="AWS Solutions Architect Associate Badge">
 </p>
 
 <h3 align=center> Hobbies</h3>
