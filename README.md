@@ -27,7 +27,7 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
 </small>
 
 <h6></h6>
-<h5>BriteCore (All Roles) (<a href="https://www.britecore.com">BriteCore</a>)
+<h5>BriteCore - All Roles (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
   <small>March 2010 - February 2022 </small>
 </h5>
