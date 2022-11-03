@@ -86,18 +86,20 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 
 <h3 align=center> Communities and Certifications </h3>
 <p align=center">
-  <a href="https://aws.amazon.com/developer/community/community-builders/">
-    <img width=20% src="assets/Community%20Builders%20badge%20800px.png" alt="AWS Community Builders Logo">
-  </a>
-  <a href="https://www.credly.com/badges/1dd8cfba-29a7-4fb9-bdc2-92f645646a93">
-    <img width=20% src="assets/developer-associate.png" alt="AWS Developer Associate Badge">
-  </a>
-  <a href="https://www.credly.com/badges/44478887-8add-4fa9-9e13-31dcf928c0c9">
-    <img width=20% src="assets/solutions-architect-associate.png" alt="AWS Solutions Architect Associate Badge">
-  </a>
-  <a href="https://www.credly.com/badges/456b8360-a71b-4866-b6d3-b208c7f03155">
-    <img width=20% src="assets/cloud-practitioner-badge.png" alt="AWS Cloud Practitioner Badge">
-  </a>
+  <p align="center">
+    <a href="https://aws.amazon.com/developer/community/community-builders/">
+      <img width=20% src="assets/Community%20Builders%20badge%20800px.png" alt="AWS Community Builders Logo">
+    </a>
+    <a href="https://www.credly.com/badges/1dd8cfba-29a7-4fb9-bdc2-92f645646a93">
+      <img width=20% src="assets/developer-associate.png" alt="AWS Developer Associate Badge">
+    </a>
+    <a href="https://www.credly.com/badges/44478887-8add-4fa9-9e13-31dcf928c0c9">
+      <img width=20% src="assets/solutions-architect-associate.png" alt="AWS Solutions Architect Associate Badge">
+    </a>
+    <a href="https://www.credly.com/badges/456b8360-a71b-4866-b6d3-b208c7f03155">
+      <img width=20% src="assets/cloud-practitioner-badge.png" alt="AWS Cloud Practitioner Badge">
+    </a>
+  </p>
   <h6 align=center> <small><small><i>Currently expired: AWS Solutions Architect - Associate (May 24, 2022)</i></small></small></h6>
 </p>
 
