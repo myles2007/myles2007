@@ -20,6 +20,10 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
   <small>February 2022 - Current </small>
 </h5>
 <small>
+  <ul>
+    <li>Source, define, negotiate, and fulfill software engineering/DevOps contracts</li>
+    <li>Provide expert consulting services for AWS, Python, and Insuretechs</li>
+  </ul>
 </small>
 
 <h6></h6>
