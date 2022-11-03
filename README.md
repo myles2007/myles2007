@@ -5,10 +5,10 @@
 <p>
 <h5> My name is Myles Loffler </h5>
 
-I'm a Senior Engineer, Architect, and Manager with 12+ years of professional experience architecting, building, and
+I'm an Executive, Senior Engineer, and Architect with 12+ years of professional experience architecting, building, and
 maintaining cloud-based enterprise SaaS solutions on the AWS Cloud with Python, JavaScript, MySQL, and more.
 
-I'm an expert at solving complex problems, managing requirements, and leading geo-diverse teams.
+I'm an expert at solving complex problems, managing requirements, and leading remote geo-diverse teams.
 
 <p align=center> </p>
 
@@ -53,7 +53,7 @@ I'm an expert at solving complex problems, managing requirements, and leading ge
     <li>Managed a multi-million dollar onshore/offshore contract concerning data architecture, analytics, BI, and overall system observability at BriteCore</li>
     <li>Led BriteCore’s Governance division, including Architecture, QA, and Design</li>
     <li>Partnered with Sales and Marketing to assess and assist with opportunities both behind-the-scenes and as direct-to-customer presentations</li>
-    <li>Defined company and engineering-specific plans, processes, and strategies</li>
+    <li>Defined company-wide and engineering-specific plans, processes, and strategies</li>
     <li>Closely engaged with InfoSec on compliance initiatives such as SOC 2</li>
   </ul>
 </small>
