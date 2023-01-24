@@ -16,7 +16,7 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 
 <h5>Co-Founder & CTO (<a href="https://hedgefish.com">Hedgefish</a>)
   <br/>
-  <small>February 2022 - Current </small>
+  <small>October 2021 - Present </small>
 </h5>
 <small>
   <ul>
