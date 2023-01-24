@@ -14,71 +14,68 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 
 <h3 align=center> Experience </h3>
 
-<h6></h6>
-<h5>Co-Founder @ Hedgefish (<a href="https://hedgefish.com">Hedgefish</a>)
+<h5>Co-Founder & CTO (<a href="https://hedgefish.com">Hedgefish</a>)
   <br/>
   <small>February 2022 - Current </small>
 </h5>
 <small>
   <ul>
-    <li>Source, define, negotiate, and fulfill software engineering/DevOps contracts</li>
+    <li>Source, define, negotiate, and fulfill software engineering, project management, and DevOps contracts</li>
     <li>Provide expert consulting services for AWS, Python, and Insuretechs</li>
-    <li>Design and develop micro SaaS applications (TBA)</li>
+    <li>Developer and consultant for The Closed Round, GGOB, Aumatio, Trademack, MORC, and more</li>
+    <li>Design, develop, and launch micro SaaS applications (TBA)</li>
   </ul>
 </small>
 
-<h6></h6>
-<h5>BriteCore - All Roles (<a href="https://www.britecore.com">BriteCore</a>)
-  <br/>
-  <small>March 2010 - February 2022 </small>
-</h5>
-<small>
-  <ul>
-    <li>Scaled BriteCore from $0 to $15M annual revenue ($10M ARR), 0 to 80+ customers (B2B), and 18 to 320+ team members (peak)</li>
-    <li>Built an AWS based (since 2012), enterprise SaaS application currently processing more than $1B in transactions annually</li>
-    <li>Presented live and on-stage to BriteCore’s growing customer base annually</li>
-    <li>Catalyzed and led a long-term, company-wide initiative to reimagine the limits of BriteCore by developing, proposing, and proving a powerful concept which led to raising $80M and opened previously unattainable business</li>
-  </ul>
-</small>
-
-<h6></h6>
-<h5>VP of Product Architecture (<a href="https://www.britecore.com">BriteCore</a>)
+<h5>VP of Engineering, Architecture (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
   <small>September 2018 - February 2022 </small>
 </h5>
 <small>
   <ul>
-    <li>Directly reported to CEO as an executive with board-level responsibilities</li>
-    <li>Scaled and led BriteCore’s global SCRUM engineering team from 30 to 120</li>
-    <li>Managed a multi-million dollar onshore/offshore contract concerning data architecture, analytics, BI, and overall system observability at BriteCore</li>
-    <li>Led BriteCore’s Governance division, including Architecture, QA, and Design</li>
-    <li>Partnered with Sales and Marketing to assess and assist with opportunities both behind-the-scenes and as direct-to-customer presentations</li>
-    <li>Defined company-wide and engineering-specific plans, processes, and strategies</li>
-    <li>Closely engaged with InfoSec on compliance initiatives such as SOC 2</li>
+    <li>Catalyzed and led a long-term, company-wide initiative to reimagine the limits of BriteCore by developing, proposing, and proving a concept which led to raising $80M and opened previously unattainable business</li>
+    <li>Scaled and led a globally distributed agile engineering team from 30 to 120 members over 2 years</li>
+    <li>Closely engaged with InfoSec to achieve compliance initiatives such as SOC 2 Type 1 certification</li>
+    <li>Achieved AWS Advanced Technology Partner (Financial Services) status with help from other leaders</li>
+    <li>Created and promoted a successful incentive program for AWS certifications—more than 50 obtained</li>
+    <li>Directly reported to CEO as an executive with quarterly board-level reporting responsibilities</li>
+    <li>Directed a multi-million dollar onshore/offshore data architecture, analytics, BI, and system observability contract</li>
+    <li>Architected and contributed to replacement of a fragile, custom batch report generation architecture—used AWS Batch, StepFunctions, CloudFormation, SQS, and more; reduced cost by 90% and increased reliability/observability</li>
+    <li>Designed and oversaw replacement fragile architecture for nightly batch process orchestration of critical processing on millions of policies annually—used AWS StepFunctions, SQS CloudFormation, Batch, and more</li>
+    <li>Partnered with Sales & Marketing to evaluate and win 20+ new customers and millions of ARR</li>
+    <li>Presented engineering updates to up to 300 non-technical users at annual conference—5 times throughout tenure</li>
   </ul>
 </small>
 
-<h6></h6>
-<h5>Principal Engineer & Architect (<a href="https://www.britecore.com">BriteCore</a>)
-  <br/>
-  <small>November 2017 - September 2018 </small>
-</h5>
-<small>
-  <ul>
-    <li>Worked closely with BriteCore’s top developers to rearchitect major components of BriteCore from the ground up to unlock new business</li>
-    <li>Directly led development for BriteCore’s new AuthN and AuthZ system</li>
-  </ul>
-</small>
 <h5>Director of Architecture & Engineering (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
-  <small>January 2017 - November 2017</small>
+  <small>January 2017 - September 2018</small>
 </h5>
 <small>
   <ul>
-    <li>Directed major initiatives, architectural changes, and engineering processes</li>
-    <li>Guided BriteCore’s first API-only client to production</li>
-    <li>Served as the primary technical contact for key relationships such as high-profile clients, prospective clients, and vendor partners</li>
-    <li>Traveled as needed for industry conferences, presentations, sales, and any other events requiring a technical presence</li>
+    <li>Collaborated with Engineering and Product leaders to reimagine and plan BriteCore’s future</li>
+    <li>Established and implemented engineering best practices—e.g., requiring infrastructure as code (IaC)</li>
+    <li>Led BriteCore’s initial API-only client to a successful launch via hands-on guidance</li>
+    <li>Primary technical contact for key relationships—e.g., high-profile/prospective clients and partners</li>
+    <li>Directed and contributed to launch of new AuthN module—handed off to promoted team member</li>
+    <li>Mentored, managed, promoted, and evaluated engineering leaders and managers</li>
+    <li>Collaborated with HR to administrate Okta, Github, Google Workspace, and more</li>
+  </ul>
+</small>
+
+<h5>Software Engineer I - Principal Software Engineer (<a href="https://www.britecore.com">BriteCore</a>)
+  <br/>
+  <small>March 2010 - January 2017</small>
+</h5>
+<small>
+  <ul>
+    <li>Collaborated with Engineering and Product leaders to reimagine and plan BriteCore’s future</li>
+    <li>Established and implemented engineering best practices—e.g., requiring infrastructure as code (IaC)</li>
+    <li>Led BriteCore’s initial API-only client to a successful launch via hands-on guidance</li>
+    <li>Primary technical contact for key relationships—e.g., high-profile/prospective clients and partners</li>
+    <li>Directed and contributed to launch of new AuthN module—handed off to promoted team member</li>
+    <li>Mentored, managed, promoted, and evaluated engineering leaders and managers</li>
+    <li>Collaborated with HR to administrate Okta, Github, Google Workspace, and more</li>
   </ul>
 </small>
 
