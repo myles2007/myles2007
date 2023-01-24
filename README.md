@@ -69,13 +69,15 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 </h5>
 <small>
   <ul>
-    <li>Collaborated with Engineering and Product leaders to reimagine and plan BriteCore’s future</li>
-    <li>Established and implemented engineering best practices—e.g., requiring infrastructure as code (IaC)</li>
-    <li>Led BriteCore’s initial API-only client to a successful launch via hands-on guidance</li>
-    <li>Primary technical contact for key relationships—e.g., high-profile/prospective clients and partners</li>
-    <li>Directed and contributed to launch of new AuthN module—handed off to promoted team member</li>
-    <li>Mentored, managed, promoted, and evaluated engineering leaders and managers</li>
-    <li>Collaborated with HR to administrate Okta, Github, Google Workspace, and more</li>
+    <li>Launched BriteCore to production with first customers in early 2011—80 more throughout tenure</li>
+    <li>Built an automatically tested commission payment system which processes $10M+/month</li>
+    <li>Solely developed and managed comprehensive automated data conversion from 20+ legacy systems</li>
+    <li>Rearchitected and refactored accounting module—increased stability, expanded scope, 1 bug reported</li>
+    <li>Added 1000+ automated tests to improve software stability</li>
+    <li>Rebuilt the core payment processor integration framework—still in use, processing $500M+ annually</li>
+    <li>Architected, built, and deployed customer-configurable, fine-grained AuthZ module—10+ year lifespan</li>
+    <li>Co-developed and implemented code review, testing, and QA principals—in use for 10+ years</li>
+    <li>Built, managed, mentored, and evaluated teams of individual contributors</li>
   </ul>
 </small>
 
