@@ -29,7 +29,7 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 
 <h5>VP of Engineering, Architecture (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
-  <small>September 2018 - February 2022 </small>
+  <small>September 2018 - February 2022 (3 years, 6 months) </small>
 </h5>
 <small>
   <ul>
@@ -49,7 +49,7 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 
 <h5>Director of Architecture & Engineering (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
-  <small>January 2017 - September 2018</small>
+  <small>January 2017 - September 2018 (1 year, 9 months)</small>
 </h5>
 <small>
   <ul>
@@ -65,7 +65,7 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 
 <h5>Software Engineer I - Principal Software Engineer (<a href="https://www.britecore.com">BriteCore</a>)
   <br/>
-  <small>March 2010 - January 2017</small>
+  <small>March 2010 - January 2017 (6 years, 11 months)</small>
 </h5>
 <small>
   <ul>
