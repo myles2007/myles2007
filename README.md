@@ -36,14 +36,15 @@ I'm an expert at solving complex problems, managing requirements, and leading re
     <li>Catalyzed and led a long-term, company-wide initiative to reimagine the limits of BriteCore by developing, proposing, and proving a concept which led to raising $80M and opened previously unattainable business</li>
     <li>Scaled and led a globally distributed agile engineering team from 30 to 120 members over 2 years</li>
     <li>Closely engaged with InfoSec to achieve compliance initiatives such as SOC 2 Type 1 certification</li>
-    <li>Achieved AWS Advanced Technology Partner (Financial Services) status with help from other leaders</li>
-    <li>Created and promoted a successful incentive program for AWS certifications—more than 50 obtained</li>
+    <li>Achieved AWS Advanced Technology Partner (Financial Services) status with help of other leaders</li>
+    <li>Created/promoted a successful incentive program for AWS certifications—more than 50 obtained</li>
     <li>Directly reported to CEO as an executive with quarterly board-level reporting responsibilities</li>
-    <li>Directed a multi-million dollar onshore/offshore data architecture, analytics, BI, and system observability contract</li>
-    <li>Architected and contributed to replacement of a fragile, custom batch report generation architecture—used AWS Batch, StepFunctions, CloudFormation, SQS, and more; reduced cost by 90% and increased reliability/observability</li>
-    <li>Designed and oversaw replacement fragile architecture for nightly batch process orchestration of critical processing on millions of policies annually—used AWS StepFunctions, SQS CloudFormation, Batch, and more</li>
+    <li>Directed $2M+ on/offshore data architecture, analytics, BI, and system observability contract</li>
+    <li>Architected/contributed to replacement of batch report generation architecture—used Batch, StepFunctions, CloudFormation, SQS, etc.; 90% cost reduction, improved reliability/observability</li>
+    <li>Designed/oversaw replacement of nightly batch processing orchestration responsible for critical processing on millions of policies annually—used StepFunctions, SQS CloudFormation, Batch, etc.</li>
+    <li>Migrated 90%+ of AWS access to Identity Center with goal of removing all IAM users</li>
     <li>Partnered with Sales & Marketing to evaluate and win 20+ new customers and millions of ARR</li>
-    <li>Presented engineering updates to up to 300 non-technical users at annual conference—5 times throughout tenure</li>
+    <li>Presented engineering updates to up to 300 end users at annual conference—5x during tenure</li>
   </ul>
 </small>
 
@@ -53,11 +54,11 @@ I'm an expert at solving complex problems, managing requirements, and leading re
 </h5>
 <small>
   <ul>
-    <li>Collaborated with Engineering and Product leaders to reimagine and plan BriteCore’s future</li>
-    <li>Established and implemented engineering best practices—e.g., requiring infrastructure as code (IaC)</li>
-    <li>Led BriteCore’s initial API-only client to a successful launch via hands-on guidance</li>
-    <li>Primary technical contact for key relationships—e.g., high-profile/prospective clients and partners</li>
-    <li>Directed and contributed to launch of new AuthN module—handed off to promoted team member</li>
+    <li>Collaborated with Engineering and Product leaders to reimagine and plan BriteCore's future</li>
+    <li>Established and implemented engineering best practices—e.g., infrastructure as code (IaC)</li>
+    <li>Led BriteCore's initial API-only client to a successful launch via hands-on guidance</li>
+    <li>Primary tech contact for key relationships—e.g., high-profile/prospective clients and partners</li>
+    <li>Directed/contributed to launch of new AuthN module—handed off to promoted team member</li>
     <li>Mentored, managed, promoted, and evaluated engineering leaders and managers</li>
     <li>Collaborated with HR to administrate Okta, Github, Google Workspace, and more</li>
   </ul>
@@ -71,11 +72,11 @@ I'm an expert at solving complex problems, managing requirements, and leading re
   <ul>
     <li>Launched BriteCore to production with first customers in early 2011—80 more throughout tenure</li>
     <li>Built an automatically tested commission payment system which processes $10M+/month</li>
-    <li>Solely developed and managed comprehensive automated data conversion from 20+ legacy systems</li>
-    <li>Rearchitected and refactored accounting module—increased stability, expanded scope, 1 bug reported</li>
+    <li>Solely developed/managed comprehensive automated data conversion from 20+ legacy systems</li>
+    <li>Rearchitected and refactored accounting module—processes $1B+ annually, in use 11+ years</li>
     <li>Added 1000+ automated tests to improve software stability</li>
-    <li>Rebuilt the core payment processor integration framework—still in use, processing $500M+ annually</li>
-    <li>Architected, built, and deployed customer-configurable, fine-grained AuthZ module—10+ year lifespan</li>
+    <li>Rebuilt payment processor integration framework—in use 11+ years, processes $500M+ annually</li>
+    <li>Architected/built/deployed customer-configurable, fine-grained AuthZ module—10+ year lifespan</li>
     <li>Co-developed and implemented code review, testing, and QA principals—in use for 10+ years</li>
     <li>Built, managed, mentored, and evaluated teams of individual contributors</li>
   </ul>
