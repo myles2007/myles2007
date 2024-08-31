@@ -5,14 +5,41 @@
 <p>
 <h5> My name is Myles Loffler </h5>
 
-I'm an Executive, Senior Engineer, and Architect with 12+ years of professional experience architecting, building, and
-maintaining cloud-based enterprise SaaS solutions on the AWS Cloud with Python, JavaScript, MySQL, and more.
+I'm an Executive, Senior Engineer, and Architect with 14+ years experience
+architecting, building, maintaining, and scaling AWS-based enterprise SaaS from
+$0 - $15M revenue, 0 - 80 customers (B2B), 18 - 350 team members, and annual
+transaction volumes of $0 - $1B+. Expert in Python, JavaScript, TypeScript,
+MySQL, PostgreSQL, managing complex requirements, and leading fully remote,
+distributed teams.
 
-I'm an expert at solving complex problems, managing requirements, and leading remote geo-diverse teams.
+Find more about me, my interests, and my work at the links below:
+
+ - https://www.linkedin.com/in/mylesloffler/
+ - https://medium.com/@mylesloffler
 
 <p align=center> </p>
 
 <h3 align=center> Experience </h3>
+
+<h5> Principal Engineer (<a href="https://velluminsurance.com">Vellum Insurance</a>)
+  <br/>
+  <small>April 2023 - Present </small>
+</h5>
+<small>
+  As Vellum's first non-founding team member and engineer, my role is exciting, varied, and encompasses anything I can help advance. 
+
+  <br/>Key responsibilities most specific to my role include:<br/>
+
+  <ul>
+    <li>Building the first iteration of the Vellum system (zero to one)</li>
+    <li>Establishment of foundational technology and processes (e.g, always IaC, code review, frameworks, etc)</li>
+    <li>Facilitation of product development from ideation through development</li>
+    <li>Continuously balancing urgency with importance, quality, and speed of delivery</li>
+    <li>Evaluating and making build vs. buy decisions</li>
+    <li>Recruiting top-tier engineering talent to grow the team as necessary</li>
+    <li>Providing mentorship and training for the engineering team and related processes</li>
+  </ul>
+</small>
 
 <h5>Co-Founder & CTO (<a href="https://hedgefish.com">Hedgefish</a>)
   <br/>
