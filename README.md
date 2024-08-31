@@ -5,10 +5,17 @@
 <p>
 <h5> My name is Myles Loffler </h5>
 
-I'm an Executive, Senior Engineer, and Architect with 14+ years of professional experience architecting, building, and
-maintaining cloud-based enterprise SaaS solutions on the AWS Cloud with Python, JavaScript, TypeScript, MySQL/PostgreSQL, and more.
+Executive, Senior Engineer, and Architect with 14+ years experience
+architecting, building, maintaining, and scaling AWS-based enterprise SaaS from
+$0 - $15M revenue, 0 - 80 customers (B2B), 18 - 350 team members, and annual
+transaction volumes of $0 - $1B+. Expert in Python, JavaScript, TypeScript,
+MySQL, PostgreSQL, managing complex requirements, and leading fully remote,
+distributed teams.
 
-I'm an expert at solving complex problems, managing requirements, and leading remote geo-diverse teams.
+Find more about me, my interests, and my work at the links below:
+
+ - https://www.linkedin.com/in/mylesloffler/
+ - https://medium.com/@mylesloffler
 
 <p align=center> </p>
 
