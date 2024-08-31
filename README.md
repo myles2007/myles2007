@@ -5,7 +5,7 @@
 <p>
 <h5> My name is Myles Loffler </h5>
 
-Executive, Senior Engineer, and Architect with 14+ years experience
+I'm an Executive, Senior Engineer, and Architect with 14+ years experience
 architecting, building, maintaining, and scaling AWS-based enterprise SaaS from
 $0 - $15M revenue, 0 - 80 customers (B2B), 18 - 350 team members, and annual
 transaction volumes of $0 - $1B+. Expert in Python, JavaScript, TypeScript,
