@@ -32,7 +32,7 @@ Find more about me, my interests, and my work at the links below:
 
   <ul>
     <li>Building the first iteration of the Vellum system (zero to one)</li>
-    <li>Establishment of foundational technology and processes</li>
+    <li>Establishment of foundational technology and processes (e.g, always IaC, code review, frameworks, etc)</li>
     <li>Facilitation of product development from ideation through development</li>
     <li>Continuously balancing urgency with importance, quality, and speed of delivery</li>
     <li>Evaluating and making build vs. buy decisions</li>
