@@ -1,7 +1,6 @@
 name: Screenshot Strava Goals
 on:
-  issues:
-    types: [opened, reopened]
+  workflow_dispatch:
   schedule:
     - cron: "0 7 * * *"
 
@@ -12,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Action
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Take Goals Screenshots
         uses: ./actions/run-puppeteer-script
         with:
@@ -21,11 +20,11 @@ jobs:
           STRAVA_EMAIL: ${{ secrets.STRAVA_EMAIL }}
           STRAVA_PASSWORD: ${{ secrets.STRAVA_PASSWORD }}
       - name: Upload As Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: strava-screenshots
           path: ./strava/*.png
       - name: Commit Updated Screenshots
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "(Automated) Updating Strava Goals Snapshot"
