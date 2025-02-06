@@ -1,7 +1,6 @@
 name: Screenshot Strava Goals
 on:
-  issues:
-    types: [opened, reopened]
+  workflow_dispatch:
   schedule:
     - cron: "0 7 * * *"
 
