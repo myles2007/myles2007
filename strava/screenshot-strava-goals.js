@@ -14,27 +14,30 @@ const puppeteer = require("puppeteer");
   const page = await browser.newPage();
   await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 2 });
   await page.goto("https://strava.com/login");
-  await page.type("#email", process.env.STRAVA_EMAIL);
-  await page.type("#password", process.env.STRAVA_PASSWORD);
-  await page.click("#login-button");
+  await page.type("#desktop-email", process.env.STRAVA_EMAIL);
+  await page.click("#desktop-login-button");
+  await page.type(
+    "input[type=password][name=password]",
+    process.env.STRAVA_PASSWORD,
+  );
+  await page.click("button[type=submit]");
   console.log("Logging in to Strava...");
 
   await page.waitForSelector("#progress-goals");
   const goalTabs = [
-    "#ride-goals-tab",
-    "#run-goals-tab",
-    "#relative-effort-goals-tab", // For some reason this select is never visible if it's first... 🤔
+    { elementId: "tabs--1--tab--2", friendlyName: "ride-goals-tab" }, // ride-goals-tab
+    { elementId: "tabs--1--tab--1", friendlyName: "run-goals-tab" }, // run-goals-tab
+    { elementId: "tabs--1--tab--0", friendlyName: "relative-effort-goals-tab" },
   ];
 
-  for (const goalTab of goalTabs) {
+  for (const { elementId, friendlyName } of goalTabs) {
     console.log(`Taking screenshot of ${goalTab}...`);
-    await page.click(goalTab);
-    await page.waitForSelector(`${goalTab.replace("-tab", "")}`, {
+    await page.click(`#${elementId}`);
+    await page.waitForSelector(`#tabs--1--panel--1`, {
       visible: true,
     });
-    const progressGoal = await page.$("#progress-goals > div.card");
     await progressGoal.screenshot({
-      path: `./strava/strava-${goalTab.replace("#", "")}.png`,
+      path: `./strava/strava-${friendlyName}.png`,
     });
   }
 
